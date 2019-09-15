@@ -1,6 +1,4 @@
 //Sidney Robinson
-//Simrobin 1643731
-//CMPS12B/M
 //Dictionary.c
 
 #include "Dictionary.h"
