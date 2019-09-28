@@ -1,6 +1,4 @@
 #Sidney Robinson
-#Simrobin 1643731
-#CMPS12B/M
 #Makefile with macros
 #------------------------------------------------------------------------------
 # Makefile for Dictionary with Hash Table Implementation and test Client
